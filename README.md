@@ -1,2 +1,2 @@
-# kirvay.github.io
+# Maks
 Мой первый сайт
