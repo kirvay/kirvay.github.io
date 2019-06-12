@@ -4,4 +4,4 @@
 Мои "проекты"
 
 
-[1](kirvay.github.io/index.html "No img")
+[1](kirvay.github.io/lesson_12/ "No img")
